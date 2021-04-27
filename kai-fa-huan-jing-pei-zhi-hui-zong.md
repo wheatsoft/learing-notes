@@ -1,4 +1,4 @@
-# 开发环境配置汇总
+# dev-environment
 
 ## zsh: command not found: mvn 
 
